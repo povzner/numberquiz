@@ -1,0 +1,46 @@
+body{
+    background-image: url("cars.jpg");
+    
+}
+form{
+    background-color: rgba(80, 0, 104, 0.466);
+padding: 20px 60px;
+    margin: auto;
+    width: 700px;
+    margin-top:500px ;
+    border-radius: 300px;
+    text-align: center;
+    
+
+}
+h1{
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+h2{
+   color: cadetblue;
+   font-size: 30px;
+}
+button{
+    background-color: darkred;
+    width: 100px;
+}
+p{
+color: white;
+font-size: 20px;
+}
+button{
+    color:  rgb(255, 255, 255);
+    border:1px solid  rgb(255, 255, 255);
+    border-radius: 100px;
+    display:inline-block;
+    margin:auto ;
+    height: 40px;
+
+}
+input{
+    height: 40px;
+   display: block;
+   margin: auto;
+  margin-bottom: 10px;
+}
